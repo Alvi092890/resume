@@ -1,0 +1,163 @@
+body {
+  font-family: 'Antic', sans-serif;
+  text-align: center;
+}
+
+h1 h2 {
+  font-family: 'Cormorant Infant', serif;
+}
+
+/* Headings */
+.section-heading {
+  padding-top: 30px;
+}
+
+/* containers */
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/* Title Section */
+
+#title-section {
+  background-color: lightblue;
+  color: white;
+  padding-bottom: 30px;
+}
+
+/* Navigation Bar */
+
+.navigation {
+  background-color: navy;
+  font-family: 'Cormorant Infant', serif;
+}
+
+.nav-item {
+  padding: 0 20px;
+}
+
+/* Rest of Title Section */
+
+.profile-picture {
+  border-radius: 50%;
+  display: inline-block;
+  height: 300px;
+  position: relative;
+  left: 200px;
+  width: 225px;
+}
+
+.title-box {
+  padding-top: 30px;
+}
+
+/* Skills */
+#skills {
+  background-color: white;
+  color: navy;
+  text-align: center;
+}
+
+/* Education */
+#education {
+  background-color: lightblue;
+  color: white;
+  text-align: center;
+}
+
+.edu-link:hover {
+  color: white;
+}
+
+.education-description {
+  padding-top: 30px;
+}
+
+.education-heading {
+  padding-bottom: 20px;
+}
+
+.education-image {
+  border-radius: 100%;
+  width: 300px;
+}
+
+/* Facts About Me */
+
+#facts-about-me {
+  background-color: white;
+  color: navy;
+  text-align: center;
+}
+
+/* Experience */
+
+#experience {
+  background-color: lightblue;
+  color: white;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.exp-disc {
+  text-align: left;
+}
+
+.exp-heading {
+  padding-bottom: 50px;
+}
+
+.exp-img {
+  display: inline-block;
+  border-radius: 100%;
+  width: 200px;
+}
+
+.exp-row {
+  margin: 100px auto;
+  width: 50%;
+}
+
+.math-img {
+float: right;
+margin-left: 30px;
+}
+
+.oh-img {
+float: left;
+margin-right: 30px;
+}
+
+.uber-img {
+  float: left;
+  margin-right: 30px;
+}
+
+/* Hobbies */
+
+#hobbies {
+  background-color: white;
+  color: navy;
+  text-align: center;
+}
+
+/* Footer */
+
+#footer {
+  background-color: lightblue;
+  color: white;
+  text-align: center;
+}
+
+.footer-button {
+  margin: 0 20px;
+}
+
+.footer {
+  color: navy;
+  font-family: 'Cormorant Infant', serif;
+  font-size: 20px;
+  font-weight: normal;
+  padding-bottom: 2%;
+
+}
